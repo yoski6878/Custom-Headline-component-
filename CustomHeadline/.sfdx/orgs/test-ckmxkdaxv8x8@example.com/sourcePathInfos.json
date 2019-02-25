@@ -1,0 +1,377 @@
+[
+    [
+        "C:\\Users\\ykinfu\\Documents\\VS Code\\Custom-Headline-component-\\CustomHeadline\\force-app",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\ykinfu\\Documents\\VS Code\\Custom-Headline-component-\\CustomHeadline\\force-app",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1551107261470,
+            "changeTime": 1551107261470,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "C:\\Users\\ykinfu\\Documents\\VS Code\\Custom-Headline-component-\\CustomHeadline\\force-app\\main",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\ykinfu\\Documents\\VS Code\\Custom-Headline-component-\\CustomHeadline\\force-app\\main",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1551107261470,
+            "changeTime": 1551107261470,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\ykinfu\\Documents\\VS Code\\Custom-Headline-component-\\CustomHeadline\\force-app\\main\\default",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\ykinfu\\Documents\\VS Code\\Custom-Headline-component-\\CustomHeadline\\force-app\\main\\default",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1551107261471,
+            "changeTime": 1551107261471,
+            "contentHash": "7334b1e8716ee057f8863fce77d3933d5bd9d984",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\ykinfu\\Documents\\VS Code\\Custom-Headline-component-\\CustomHeadline\\force-app\\main\\default\\aura",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\ykinfu\\Documents\\VS Code\\Custom-Headline-component-\\CustomHeadline\\force-app\\main\\default\\aura",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1551118711373,
+            "changeTime": 1551118711373,
+            "contentHash": "1137ba865f7c16d92a751aab4c804501c4be26d6",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\ykinfu\\Documents\\VS Code\\Custom-Headline-component-\\CustomHeadline\\force-app\\main\\default\\aura\\LightningApp",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\ykinfu\\Documents\\VS Code\\Custom-Headline-component-\\CustomHeadline\\force-app\\main\\default\\aura\\LightningApp",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1551118711388,
+            "changeTime": 1551118711388,
+            "contentHash": "1a8d1b4d6ee0fbd94764122254b8441b1e3c0351",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\ykinfu\\Documents\\VS Code\\Custom-Headline-component-\\CustomHeadline\\force-app\\main\\default\\aura\\LightningApp\\LightningApp.app",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\ykinfu\\Documents\\VS Code\\Custom-Headline-component-\\CustomHeadline\\force-app\\main\\default\\aura\\LightningApp\\LightningApp.app",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 58,
+            "modifiedTime": 1551118751612,
+            "changeTime": 1551118751612,
+            "contentHash": "a3da0d1054ffd7cf86d07777181ff4c1eacd5daf",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\ykinfu\\Documents\\VS Code\\Custom-Headline-component-\\CustomHeadline\\force-app\\main\\default\\aura\\LightningApp\\LightningApp.app-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\ykinfu\\Documents\\VS Code\\Custom-Headline-component-\\CustomHeadline\\force-app\\main\\default\\aura\\LightningApp\\LightningApp.app-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 246,
+            "modifiedTime": 1551118711377,
+            "changeTime": 1551118711377,
+            "contentHash": "7b64ce9432a63b89d1e380d4209742c2a42a5c67",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\ykinfu\\Documents\\VS Code\\Custom-Headline-component-\\CustomHeadline\\force-app\\main\\default\\aura\\LightningApp\\LightningApp.auradoc",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\ykinfu\\Documents\\VS Code\\Custom-Headline-component-\\CustomHeadline\\force-app\\main\\default\\aura\\LightningApp\\LightningApp.auradoc",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 209,
+            "modifiedTime": 1551118711388,
+            "changeTime": 1551118711388,
+            "contentHash": "fd7f560d82324d6a8255c8c6ebf60698f5f93f1e",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\ykinfu\\Documents\\VS Code\\Custom-Headline-component-\\CustomHeadline\\force-app\\main\\default\\aura\\LightningApp\\LightningApp.css",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\ykinfu\\Documents\\VS Code\\Custom-Headline-component-\\CustomHeadline\\force-app\\main\\default\\aura\\LightningApp\\LightningApp.css",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 10,
+            "modifiedTime": 1551118711383,
+            "changeTime": 1551118711383,
+            "contentHash": "44063bf628f237edaa1f3f358714dd40ac321703",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\ykinfu\\Documents\\VS Code\\Custom-Headline-component-\\CustomHeadline\\force-app\\main\\default\\aura\\LightningApp\\LightningApp.svg",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\ykinfu\\Documents\\VS Code\\Custom-Headline-component-\\CustomHeadline\\force-app\\main\\default\\aura\\LightningApp\\LightningApp.svg",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 661,
+            "modifiedTime": 1551118711387,
+            "changeTime": 1551118711387,
+            "contentHash": "721eeffe17135535c3834b77f1e1968fe6360ed4",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\ykinfu\\Documents\\VS Code\\Custom-Headline-component-\\CustomHeadline\\force-app\\main\\default\\aura\\LightningApp\\LightningAppController.js",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\ykinfu\\Documents\\VS Code\\Custom-Headline-component-\\CustomHeadline\\force-app\\main\\default\\aura\\LightningApp\\LightningAppController.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 65,
+            "modifiedTime": 1551118711380,
+            "changeTime": 1551118711380,
+            "contentHash": "194250e0c86b1981f8d4e7246be6b32954c6deaf",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\ykinfu\\Documents\\VS Code\\Custom-Headline-component-\\CustomHeadline\\force-app\\main\\default\\aura\\LightningApp\\LightningAppHelper.js",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\ykinfu\\Documents\\VS Code\\Custom-Headline-component-\\CustomHeadline\\force-app\\main\\default\\aura\\LightningApp\\LightningAppHelper.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 45,
+            "modifiedTime": 1551118711382,
+            "changeTime": 1551118711382,
+            "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\ykinfu\\Documents\\VS Code\\Custom-Headline-component-\\CustomHeadline\\force-app\\main\\default\\aura\\LightningApp\\LightningAppRenderer.js",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\ykinfu\\Documents\\VS Code\\Custom-Headline-component-\\CustomHeadline\\force-app\\main\\default\\aura\\LightningApp\\LightningAppRenderer.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 50,
+            "modifiedTime": 1551118711385,
+            "changeTime": 1551118711385,
+            "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\ykinfu\\Documents\\VS Code\\Custom-Headline-component-\\CustomHeadline\\force-app\\main\\default\\aura\\WelcomePage",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\ykinfu\\Documents\\VS Code\\Custom-Headline-component-\\CustomHeadline\\force-app\\main\\default\\aura\\WelcomePage",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1551107322629,
+            "changeTime": 1551107322629,
+            "contentHash": "f8f2dcd0c23b47011420e91b797e7632dfb95253",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\ykinfu\\Documents\\VS Code\\Custom-Headline-component-\\CustomHeadline\\force-app\\main\\default\\aura\\WelcomePage\\WelcomePage.auradoc",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\ykinfu\\Documents\\VS Code\\Custom-Headline-component-\\CustomHeadline\\force-app\\main\\default\\aura\\WelcomePage\\WelcomePage.auradoc",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 209,
+            "modifiedTime": 1551107322627,
+            "changeTime": 1551107322627,
+            "contentHash": "fd7f560d82324d6a8255c8c6ebf60698f5f93f1e",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\ykinfu\\Documents\\VS Code\\Custom-Headline-component-\\CustomHeadline\\force-app\\main\\default\\aura\\WelcomePage\\WelcomePage.cmp",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\ykinfu\\Documents\\VS Code\\Custom-Headline-component-\\CustomHeadline\\force-app\\main\\default\\aura\\WelcomePage\\WelcomePage.cmp",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 1117,
+            "modifiedTime": 1551119326784,
+            "changeTime": 1551119326784,
+            "contentHash": "12844aaf60ac47a48437f11433c6c543eca640f0",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\ykinfu\\Documents\\VS Code\\Custom-Headline-component-\\CustomHeadline\\force-app\\main\\default\\aura\\WelcomePage\\WelcomePage.cmp-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\ykinfu\\Documents\\VS Code\\Custom-Headline-component-\\CustomHeadline\\force-app\\main\\default\\aura\\WelcomePage\\WelcomePage.cmp-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 243,
+            "modifiedTime": 1551107322612,
+            "changeTime": 1551107322612,
+            "contentHash": "c7014b9edb0df7bee71349c051e7d207d895a049",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\ykinfu\\Documents\\VS Code\\Custom-Headline-component-\\CustomHeadline\\force-app\\main\\default\\aura\\WelcomePage\\WelcomePage.css",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\ykinfu\\Documents\\VS Code\\Custom-Headline-component-\\CustomHeadline\\force-app\\main\\default\\aura\\WelcomePage\\WelcomePage.css",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 46,
+            "modifiedTime": 1551118270799,
+            "changeTime": 1551118270799,
+            "contentHash": "2ee7f4b45fed38ffe338ddea2cb61173d4876f25",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\ykinfu\\Documents\\VS Code\\Custom-Headline-component-\\CustomHeadline\\force-app\\main\\default\\aura\\WelcomePage\\WelcomePage.design",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\ykinfu\\Documents\\VS Code\\Custom-Headline-component-\\CustomHeadline\\force-app\\main\\default\\aura\\WelcomePage\\WelcomePage.design",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 278,
+            "modifiedTime": 1551118566428,
+            "changeTime": 1551118566428,
+            "contentHash": "f4db23db49aa8ba82950c5f8361fc3738829b365",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\ykinfu\\Documents\\VS Code\\Custom-Headline-component-\\CustomHeadline\\force-app\\main\\default\\aura\\WelcomePage\\WelcomePage.svg",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\ykinfu\\Documents\\VS Code\\Custom-Headline-component-\\CustomHeadline\\force-app\\main\\default\\aura\\WelcomePage\\WelcomePage.svg",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 661,
+            "modifiedTime": 1551107322624,
+            "changeTime": 1551107322624,
+            "contentHash": "721eeffe17135535c3834b77f1e1968fe6360ed4",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\ykinfu\\Documents\\VS Code\\Custom-Headline-component-\\CustomHeadline\\force-app\\main\\default\\aura\\WelcomePage\\WelcomePageController.js",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\ykinfu\\Documents\\VS Code\\Custom-Headline-component-\\CustomHeadline\\force-app\\main\\default\\aura\\WelcomePage\\WelcomePageController.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 519,
+            "modifiedTime": 1551128914519,
+            "changeTime": 1551128914519,
+            "contentHash": "c4744b54b46c099c66a9b47cb532b9c67c8b01bb",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\ykinfu\\Documents\\VS Code\\Custom-Headline-component-\\CustomHeadline\\force-app\\main\\default\\aura\\WelcomePage\\WelcomePageHelper.js",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\ykinfu\\Documents\\VS Code\\Custom-Headline-component-\\CustomHeadline\\force-app\\main\\default\\aura\\WelcomePage\\WelcomePageHelper.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 45,
+            "modifiedTime": 1551107322618,
+            "changeTime": 1551107322618,
+            "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\ykinfu\\Documents\\VS Code\\Custom-Headline-component-\\CustomHeadline\\force-app\\main\\default\\aura\\WelcomePage\\WelcomePageRenderer.js",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\ykinfu\\Documents\\VS Code\\Custom-Headline-component-\\CustomHeadline\\force-app\\main\\default\\aura\\WelcomePage\\WelcomePageRenderer.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 50,
+            "modifiedTime": 1551107322622,
+            "changeTime": 1551107322622,
+            "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\ykinfu\\Documents\\VS Code\\Custom-Headline-component-\\CustomHeadline\\force-app\\main\\default\\lwc",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\ykinfu\\Documents\\VS Code\\Custom-Headline-component-\\CustomHeadline\\force-app\\main\\default\\lwc",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1551107294018,
+            "changeTime": 1551107294018,
+            "contentHash": "a973ac1b5be0e216b2a2db1b82ae5ba97f4086f4",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\ykinfu\\Documents\\VS Code\\Custom-Headline-component-\\CustomHeadline",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\ykinfu\\Documents\\VS Code\\Custom-Headline-component-\\CustomHeadline",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1551118813632,
+            "changeTime": 1551118813632,
+            "contentHash": "78748bd5cf6269fc11133f6f9f06a5aaf1fac931",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ]
+]
