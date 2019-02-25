@@ -1,3 +1,4 @@
 <design:component >
-
+    <design:attribute name="header" label="header message" description="text you want to enter for the header" />
+    <design:attribute name="subHeader" label="sub header message" description="text you want to enter for the sub header" />
 </design:component>

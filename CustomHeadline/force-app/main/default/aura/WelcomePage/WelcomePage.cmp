@@ -1,3 +1,27 @@
-<aura:component>
+<aura:component controller="findUser" implements="forceCommunity:availableForAllPageTypes" access="global">
 
-</aura:component>	
+    <aura:attribute name="userData" type="Object" />
+    <aura:attribute name="setthis" type="string" />
+    <aura:attribute name="setheader" type="string" />
+    <aura:attribute name="header" type="string" default="Welcome to the Air Force Airman Portal" access="global" />
+    <aura:attribute name="subHeader" type="string" default="Please find all critical information to manage your Airman profile and career in the Airman Portal."
+        access="global" />
+    <aura:handler name="init" value="this" action = "{!c.doInit}"/>
+    <section>
+        <h1 class="centeralign">
+            {!v.header}
+        </h1>
+        <p class="centeralign">
+            <div>
+                {!v.userData.Name}, {!v.subHeader}
+            </div>
+        </p>
+    </section>
+
+    <!--<div class="slds-text-align_center">
+        <div class="slds-page-header__title slds-truncate"><span>{!v.header} </span> </div> <br />
+        <span class="slds-text-color_weak"> {!v.subHeader}</span>
+    </div>-->
+
+
+</aura:component>
