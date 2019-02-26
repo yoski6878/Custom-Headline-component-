@@ -7,6 +7,7 @@
     <aura:attribute name="subHeader" type="string" default="Please find all critical information to manage your Airman profile and career in the Airman Portal."
         access="global" />
     <aura:handler name="init" value="this" action = "{!c.doInit}"/>
+    
     <section>
         <h1 class="centeralign">
             {!v.header}
