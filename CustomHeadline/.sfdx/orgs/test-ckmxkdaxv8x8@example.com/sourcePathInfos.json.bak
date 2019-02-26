@@ -229,11 +229,11 @@
             "sourcePath": "C:\\Users\\ykinfu\\Documents\\VS Code\\Custom-Headline-component-\\CustomHeadline\\force-app\\main\\default\\aura\\WelcomePage\\WelcomePage.cmp",
             "isDirectory": false,
             "isMetadataFile": false,
-            "size": 1186,
-            "modifiedTime": 1551191111778,
-            "changeTime": 1551191111778,
+            "size": 1167,
+            "modifiedTime": 1551190714198,
+            "changeTime": 1551190714198,
             "isWorkspace": false,
-            "contentHash": "50cf65ae3c826cdd1f2fe9e5ec0230dc8facf9f8"
+            "contentHash": "740cfbdc1054a2754a6db59867d83312b941a3bd"
         }
     ],
     [
@@ -258,11 +258,11 @@
             "sourcePath": "C:\\Users\\ykinfu\\Documents\\VS Code\\Custom-Headline-component-\\CustomHeadline\\force-app\\main\\default\\aura\\WelcomePage\\WelcomePage.css",
             "isDirectory": false,
             "isMetadataFile": false,
-            "size": 168,
-            "modifiedTime": 1551191130707,
-            "changeTime": 1551191130707,
+            "size": 111,
+            "modifiedTime": 1551190702009,
+            "changeTime": 1551190702009,
             "isWorkspace": false,
-            "contentHash": "81cdb45bc77d1e6e3193a423b6c525211b9fd0cd"
+            "contentHash": "5466e176ce91173b76faf712921a45034b4501de"
         }
     ],
     [

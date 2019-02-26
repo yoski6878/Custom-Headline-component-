@@ -9,10 +9,10 @@
     <aura:handler name="init" value="this" action = "{!c.doInit}"/>
     
     <section>
-        <h1 class="centeralign">
+        <h1 class="centeralign classtochangefont">
             {!v.header}
         </h1>
-        <p class="centeralign">
+        <p class="centeralign classtochangestyle">
             <div>
                 {!v.userData.Name}, {!v.subHeader}
             </div>

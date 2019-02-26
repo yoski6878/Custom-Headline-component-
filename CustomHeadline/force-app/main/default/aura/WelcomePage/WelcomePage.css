@@ -1,3 +1,11 @@
-.THIS .centeralign{
+.THIS .centeralign {
     text-align: center;
+}
+
+.THIS .classtochangefont {
+    font-size: -webkit-xxx-large;
+   
+}
+.THIS .classtochangestyle {
+    font-style: italic;
 }
